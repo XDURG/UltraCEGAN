@@ -12,9 +12,9 @@ UltraCEGAN is an open-source project aimed at generating ultrasound images that 
 
 To get started with UltraCEGAN, follow the instructions below:
 
-1. Clone the UltraCEGAN repository: `git clone https://github.com/your-username/UltraCEGAN.git`
+1. Clone the UltraCEGAN repository: `git clone https://github.com/XDURG/UltraCEGAN.git`
 2. Install the required dependencies listed in the `requirements.txt` file.
-3. Obtain the pre-trained UltraCEGAN model from us upon reasonable request or train your own model using the provided dataset.
+3. Obtain the pre-trained UltraCEGAN model from us upon reasonable request or train your own model using your own dataset using `cyclegan_change_losscalc.py`.
 4. Run the inference script to generate ultrasound images.
 
 ## Contributing
@@ -23,4 +23,4 @@ Contributions to UltraCEGAN are welcome! If you find any issues, have suggestion
 
 ## License
 
-UltraCEGAN is released under the [MIT License](LICENSE).
+UltraCEGAN is released under the [Apache License 2.0](LICENSE).
