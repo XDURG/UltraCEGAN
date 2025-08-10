@@ -1,5 +1,9 @@
 # UltraCEGAN: Ultrasound Image Generation using CycleGAN
 
+**Reference:**  
+Lai et al., *Synthesize contrast-enhanced ultrasound image of thyroid nodules via generative adversarial networks*, *European Radiology*, 2025.  
+[https://doi.org/10.1007/s00330-025-11928-z](https://doi.org/10.1007/s00330-025-11928-z)
+
 UltraCEGAN is an open-source project aimed at generating ultrasound images that resemble contrast-enhanced ultrasound imaging using the CycleGAN framework. By leveraging the power of deep learning and generative adversarial networks (GANs), this project provides a novel approach to synthesizing ultrasound images with enhanced contrast.
 
 ## Features
